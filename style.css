@@ -18,22 +18,22 @@ section {
 }
 
 a:link {
-  color: red;
+  color: blue;
 }
 
 /* visited link */
 a:visited {
-  color: red;
+  color: blue;
 }
 
 /* mouse over link */
 a:hover {
-  color: red;
+  color: lightblue;
 }
 
 /* selected link */
 a:active {
-  color: red;
+  color: blue;
 }
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
